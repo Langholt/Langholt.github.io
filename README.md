@@ -1,3 +1,3 @@
-# kowitz.co
-Personal website for Braden Kowitz.
-Hosted at http://kowitz.co.
+# langholt.work
+Personal website for Friðrik Lárusson
+Hosted at http://langholt.work.
